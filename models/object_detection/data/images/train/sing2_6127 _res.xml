@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Михаил</folder>
+	<filename>sing2_6127 _res.jpg</filename>
+	<path>C:\Users\youbo\Desktop\Михаил\sing2_6127 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>121</ymin>
+			<xmax>320</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nerov</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>123</ymin>
+			<xmax>186</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>124</ymin>
+			<xmax>137</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Михаил</folder>
+	<filename>sing2_6525 _res.jpg</filename>
+	<path>C:\Users\youbo\Desktop\Михаил\sing2_6525 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>priority_movement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>139</ymin>
+			<xmax>233</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>187</ymin>
+			<xmax>92</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

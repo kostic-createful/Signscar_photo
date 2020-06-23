@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Костя</folder>
+	<filename>sing_9272 _res.jpg</filename>
+	<path>C:\Users\HOME\Desktop\Костя\sing_9272 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>priority_movement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>165</ymin>
+			<xmax>622</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>223</ymin>
+			<xmax>409</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

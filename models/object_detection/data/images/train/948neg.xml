@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>948neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\948neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>61</ymin>
+			<xmax>410</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

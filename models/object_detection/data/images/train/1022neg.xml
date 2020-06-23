@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>1022neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\1022neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>112</ymin>
+			<xmax>575</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>737neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\737neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>105</ymin>
+			<xmax>541</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

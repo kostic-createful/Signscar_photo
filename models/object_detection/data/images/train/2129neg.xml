@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>2129neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\2129neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>100</ymin>
+			<xmax>469</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

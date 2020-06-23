@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>2042neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\2042neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>95</ymin>
+			<xmax>65</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

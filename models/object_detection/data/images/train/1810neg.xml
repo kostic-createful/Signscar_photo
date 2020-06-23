@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>1810neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\1810neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>112</ymin>
+			<xmax>590</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

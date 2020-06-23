@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Вова</folder>
+	<filename>sing_2027 _res.jpg</filename>
+	<path>C:\Users\youbo\Desktop\Вова\sing_2027 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>137</ymin>
+			<xmax>609</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nerov</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>175</ymin>
+			<xmax>398</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

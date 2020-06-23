@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Вова</folder>
+	<filename>sing_5786 _res.jpg</filename>
+	<path>C:\Users\youbo\Desktop\Вова\sing_5786 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>priority_movement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>148</ymin>
+			<xmax>582</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>207</ymin>
+			<xmax>389</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

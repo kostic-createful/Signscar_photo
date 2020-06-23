@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Костя</folder>
+	<filename>sing2_5372 _res.jpg</filename>
+	<path>C:\Users\HOME\Desktop\Костя\sing2_5372 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nerov</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>133</ymin>
+			<xmax>416</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>133</ymin>
+			<xmax>353</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>784neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\784neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pesh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>106</ymin>
+			<xmax>447</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

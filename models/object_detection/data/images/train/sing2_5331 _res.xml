@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Костя</folder>
+	<filename>sing2_5331 _res.jpg</filename>
+	<path>C:\Users\HOME\Desktop\Костя\sing2_5331 _res.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>129</ymin>
+			<xmax>54</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

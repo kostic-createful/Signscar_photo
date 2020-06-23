@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raw</folder>
+	<filename>2422neg.jpg</filename>
+	<path>C:\Users\HOME\Desktop\NeuroNEt\Raw\2422neg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nerov</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>84</ymin>
+			<xmax>123</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
